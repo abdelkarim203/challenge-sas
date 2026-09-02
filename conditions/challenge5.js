@@ -27,3 +27,7 @@ else if (note >= 16 && note <= 17.99) {
 else if (note >= 18 && note <= 20) {
     console.log("Excellent");
 }
+
+else {
+    console.log( "impressive")
+}
