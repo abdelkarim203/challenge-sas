@@ -1,0 +1,11 @@
+const pseudo = ("shadow");
+let niveau = 12;
+let age = 21;
+let score = 4580;
+const pays = ("maroc");
+
+console.log("psseudo");
+console.log("niveau");
+console.log("age");
+console.log("score");
+console.log("pays");
