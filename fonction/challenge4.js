@@ -1,9 +1,9 @@
 
-function saluerClient(nom , titre = "Client"){
-    let n = nom
-    let t = titre
-    let b = (`bonjour ${t} ${n}`)
-    return b;
-
+function saluerClient(nom, titre = "client"){
+    let n = nom;
+    let t = titre;
+    let c = `bonjour ${t} ${n}`
+    return c;
 }
-console.log(saluerClient("redouan"))
+console.log(saluerClient ( "karim"));
+
